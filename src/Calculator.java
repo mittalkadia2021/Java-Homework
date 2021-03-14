@@ -8,7 +8,7 @@ public class Calculator {
         int Division = a/b;
 
 
-        System.out.println("Addition of" + " " + a + " " + " &" + " " + b +" " +"= " +total);
+        System.out.println("Addition of" + " " + a + " "+ "+" + " " + b +" " +"= " +total);
         System.out.println("Subtraction of" + " " + a + " " + "- " + b + " " + "=" + subtraction);
         System.out.println("Multiplication of"+" "+ a + " *"+" "+ b +" ="+ Multiplication);
         System.out.println("Division of"+" "+ a + " /"+" "+ b +" "+"="+Division);
